@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="JsonIntroduction.App/JsonIntroduction.App.csproj" />
+  <Project Path="MovieJson.App/MovieJson.App.csproj" />
+  <Project Path="MovieJson/MovieJson.csproj" />
 </Solution>
